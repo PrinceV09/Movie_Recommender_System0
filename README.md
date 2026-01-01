@@ -32,15 +32,7 @@ This Movie Recommender System suggests similar movies based on a selected title.
 - Search for a movie by title  
 - Receive top movie recommendations  
 - Lightweight and easy to run locally  
-- Simple UI using Streamlit
-
----
-
-## Demo
-
-*If a live demo is hosted (e.g., on Streamlit Cloud or another platform), replace the link below with your deployed URL:*
-
-> **Live App:** *(Add your deployment link here)*
+- Simple UI using Streamlit 
 
 ---
 
